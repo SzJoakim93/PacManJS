@@ -7,5 +7,5 @@ https://szjoakim93.github.io/PacManJS
 
 You can also play the game by downloading all files from the repository and launching index.html
 
-![Screenshot](Screenshots/PacManJS1.png)
-![Screenshot](Screenshots/PacManJS2.png)
+![Screenshot](ScreenShots/PacManJS1.png)
+![Screenshot](ScreenShots/PacManJS2.png)
